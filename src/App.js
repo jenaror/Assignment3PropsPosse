@@ -8,6 +8,7 @@ class App extends React.Component {
         <h1>CIT 382 - Assignment 3</h1>
         <p>
           Purpose of this web app is to get a good grade in our CIT382 class
+          Yep
         </p>
       </div>
     );
